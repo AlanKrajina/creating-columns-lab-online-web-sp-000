@@ -56,7 +56,6 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 
 .small {
-  grid-column: 3;
   grid-row: 1 / span 2;
 }
 
