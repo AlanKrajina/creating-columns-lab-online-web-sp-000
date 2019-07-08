@@ -61,10 +61,7 @@ img:hover {
 }
 
 .medium {
-  grid-column-start: 2;
-  grid-column-end: 4;
-  grid-row-start: row1-start;
-  grid-row-end: 3;
+
 }
 
 .large {
