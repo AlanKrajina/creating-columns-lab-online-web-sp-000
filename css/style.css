@@ -62,7 +62,9 @@ img:hover {
 }
 
 .medium {
-  
+  grid-column: 3;
+  grid-row: 1 / span 2;
+
 }
 
 .large {
